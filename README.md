@@ -1,6 +1,6 @@
 # Pandas-challenge
 
-In this activity, it was requested to analyze a school district data, including size categories, types, budget per school, budget per capita and the performance on the standardized test results. 
+In this activity, it was requested to analyze 2 school district datasets, creating various categories, such as size, types, budget per school, budget per capita and the performance on the standardized test results. 
 The aggregate data showcase trends in the school district performance and it will inform future school priorities and decisions:
 
 
@@ -11,7 +11,7 @@ The aggregate data showcase trends in the school district performance and it wil
 ![per_school_summary](https://github.com/githubemail5326/pandas-challenge/blob/main/PyCitySchools/per_school_summary.PNG)
 
 
-* A higher spending per capita does not mean higher overall passing percentage. In fact, the higher overall passing percentage are in schools that spend less than 585 per student and the schools that spend more (between 645-680) have the lowest overall passing percentage in comparison. More data analysis will be required to understand the difference on the spending efficiency.
+* A higher spending per capita does not mean higher overall passing percentage. In fact, the higher overall passing percentage are in schools that spend less than 585 per student and the schools that spend more (between 645-680) have the lowest overall passing percentage. More data analysis will be required to understand the difference on the spending efficiency.
 
 ![spending_summary](https://github.com/githubemail5326/pandas-challenge/blob/main/PyCitySchools/spending_summary.PNG)
 
@@ -22,9 +22,11 @@ The aggregate data showcase trends in the school district performance and it wil
 
 ![bottom_schools](https://github.com/githubemail5326/pandas-challenge/blob/main/PyCitySchools/bottom_schools.PNG)
 
-* Charter schools have better overall passing percentages than district schools. Medium schools (1000 -2000 students) seem to have the optimal size for a higher overall passing percentage when compared to small (<1000 students) and large schools (2000-5000 students).
+* Charter schools have better overall passing percentages than district schools.
 
 ![type_summary](https://github.com/githubemail5326/pandas-challenge/blob/main/PyCitySchools/type_summary.PNG)
+
+* Medium schools (1000 -2000 students) seem to have the optimal size for a higher overall passing percentage when compared to small (<1000 students) and large schools (2000-5000 students).
 
 ![size_summary](https://github.com/githubemail5326/pandas-challenge/blob/main/PyCitySchools/size_summary.PNG)
 
