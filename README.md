@@ -1,17 +1,18 @@
 # Pandas-challenge
 
-In this activity, it was requested to analyze 2 school district datasets, creating various categories, such as size, types, budget per school, budget per capita and the performance on the standardized test results. 
-The aggregate data showcase trends in the school district performance and it will inform future school priorities and decisions:
+In this activity, it was requested an analyze of 2 school district datasets, creating various categories, such as size, types, budget per school, budget per capita and the performance on the standardized test results. The aggregate data showcase trends in the school district performance and it will inform future school district priorities and decisions:
 
 
-* Although the total budget for the 15 schools is 24,649,428.00, the overall passing percentage is only 65.172326. The total budget is not evenly distributed: while Bailey High School receives 3,124,928.00 (628.00 per student and 54.642283 of overall passing percentage), Holden High School receives only 248,087.00 (581.00 per student and 89.227166 of overall passing percentage).
+* Although the total budget for the 15 schools is 24,649,428.00, the overall passing percentage is only 65.172326. 
 
-![district_summary.PNG](https://github.com/githubemail5326/pandas-challenge/blob/main/PyCitySchools/district_summary.PNG)
+![district_summary](https://github.com/githubemail5326/pandas-challenge/blob/main/PyCitySchools/district_summary.PNG)
+
+* The total budget is not evenly distributed: while Bailey High School receives 3,124,928.00 (628.00 per student and 54.642283 of overall passing percentage), Holden High School receives only 248,087.00 (581.00 per student and 89.227166 of overall passing percentage).
 
 ![per_school_summary](https://github.com/githubemail5326/pandas-challenge/blob/main/PyCitySchools/per_school_summary.PNG)
 
 
-* A higher spending per capita does not mean higher overall passing percentage. In fact, the higher overall passing percentage are in schools that spend less than 585 per student and the schools that spend more (between 645-680) have the lowest overall passing percentage. More data analysis will be required to understand the difference on the spending efficiency.
+* A higher spending per capita does not mean higher overall passing percentage. In fact, the higher overall passing percentage are in schools that spend less than 585 per student and the schools that spend more (between 645-680) have the lowest overall passing percentage. More analysis will be required to understand the difference on the schools best practices and spending efficiency.
 
 ![spending_summary](https://github.com/githubemail5326/pandas-challenge/blob/main/PyCitySchools/spending_summary.PNG)
 
