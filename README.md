@@ -1,6 +1,6 @@
 # Pandas-challenge
 
-In this activity, it was requested an analyze of 2 school district datasets, creating various categories, such as size, types, budget per school, budget per capita and the performance on the standardized test results. The aggregate data showcase trends in the school district performance and it will inform future school district priorities and decisions:
+In this activity, it was requested an analyze of 2 school district datasets, creating various categories, such as size, types, budget per school, budget per capita and performance on the standardized test results. The aggregate data showcase trends in the school district operation and it will inform future school district priorities and decisions:
 
 
 * Although the total budget for the 15 schools is 24,649,428.00, the overall passing percentage is only 65.172326. 
